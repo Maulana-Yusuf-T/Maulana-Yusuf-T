@@ -3,8 +3,6 @@
 ### 👋 **Greetings!**
 Welcome to my GitHub Profile! I'm *Maulana Yusuf Taufiqurrahman*, a Mechatronics Engineering Bachelor's degree graduate with a background in data field. By enrolling in **Hacktiv8 Indonesia's Full-Time Data Science** program, I could further my studies and develop my ability to address real-world problems and provide audiences with insightful information.<br>
 
-========================================================================
-
 ### 📝 **Summary of Personality** 
 A self-reliant and diligent individual with a strong eagerness to learn and explore new technologies. Committed to working in collaborative settings to support team performance to solve problems.<br>
 
