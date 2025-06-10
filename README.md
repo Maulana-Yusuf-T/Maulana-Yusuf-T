@@ -17,7 +17,7 @@ Jakarta, Indonesia.<br>
 **Programming Language**: C, C++, Python, SQL.<br>
 **Visualization Tools**: Tableau, Matplotlib, Seaborn, Kibana.<br>
 **Libraries / Framework**: Pandas, NumPy, SciPy, Scikit-Learn, Streamlit, Joblib, TensorFlow, ElasticSearch.<br>
-**Tools**: Visual Studio Code, PostgreSQL, Google BigQuery, Docker Deskstop, MongoDB.
+**Tools**: Visual Studio Code, PostgreSQL, Google BigQuery, Docker Deskstop, MongoDB.<br>
 **Machine Learning**: Supervised & Unsupervised Learning, Deep-Learning, Natural Language Processing (NLP), Computer Vision (CV).<br>
 **Others**: Exploratory Data Analysis (EDA), Feature Engineering (FE), Time Series.<br>
 
