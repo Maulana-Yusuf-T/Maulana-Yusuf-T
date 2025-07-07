@@ -18,8 +18,8 @@ Jakarta, Indonesia.<br>
 **Visualization Tools**: Tableau, Matplotlib, Seaborn, Kibana.<br>
 **Libraries / Framework**: Pandas, NumPy, SciPy, Scikit-Learn, Streamlit, Joblib, TensorFlow, ElasticSearch.<br>
 **Tools**: Visual Studio Code, PostgreSQL, Google BigQuery, Docker Deskstop, MongoDB.<br>
-**Machine Learning**: Supervised & Unsupervised Learning, Deep-Learning, Natural Language Processing (NLP), Computer Vision (CV).<br>
-**Others**: Exploratory Data Analysis (EDA), Feature Engineering (FE), Time Series.<br>
+**Machine Learning**: Supervised & Unsupervised Learning, Hyperparameter Tuning, Deep-Learning, Natural Language Processing (NLP), Computer Vision (CV).<br>
+**Others**: ETL Development, Exploratory Data Analysis (EDA), Feature Engineering (FE), Time Series.<br>
 
 ## 🌐 **Let's get connected!**
 **LinkedIn**: [Connect to LinkedIn](www.linkedin.com/in/maulana-yusuf-taufiqurrahman-5281662a2)<br>
